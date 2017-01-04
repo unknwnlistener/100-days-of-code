@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Forked 100-days-of-code repo. Tweeted out commitment yesterday.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Hyped about starting. Worried I might quit halfway. But if you never start then you can never progress so diving right into it
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Github Fork](https://github.com/unknwnlistener/100-days-of-code)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Started on the 'Build a Tribute Page' zipline by FreeCodeCamp. Required working in HTML, CSS and Bootstrap
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Made some progress so I'm not too upset about it. Have been stuck on this project for a year now cause I'm emotionally attached to it. 
+Still not happy with what I've made but it's a start! Will revisit this in the future.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** [Codepen Site](http://codepen.io/unknwnlistener/pen/jVERav)
