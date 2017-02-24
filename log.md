@@ -16,3 +16,19 @@
 Still not happy with what I've made but it's a start! Will revisit this in the future.
 
 **Link(s) to work:** [Codepen Site](http://codepen.io/unknwnlistener/pen/jVERav)
+
+### Day 2: January 4, 2017
+
+**Today's Progress:** Started Portfolio Page for FreeCodeCamp.
+
+**Thoughts:** Busy day today so nearly tried to skip a day. But decided against it and did a little, even if it was just starting a codepen page. Hopefully get more work done tomorrow.
+
+**Link to work:** [Codepen Site](http://codepen.io/unknwnlistener/pen/OWPoWd)
+
+### Day 3: January 8, 2017
+
+**Today's Progress:** Continued work on the Portfolio Page for FreeCodeCamp
+
+**Thoughts:** Busy for 3 days and realising that I'll keep getting busier. Need to schedule better to find time for 100 Days of Code.
+
+**Link to Work:** [Codepen Site](http://codepen.io/unknwnlistener/pen/OWPoWd)
